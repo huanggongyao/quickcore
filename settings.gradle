@@ -1,0 +1,1 @@
+include ':app', ':quickcore', ':quickcore-compiler', ':quickcore-annotation'
